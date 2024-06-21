@@ -1,0 +1,4 @@
+interface CreateAccount{
+        long createNewAccount() ;
+}
+
